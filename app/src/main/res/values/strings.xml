@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Array Problem App</string>
+    <string name="app_title">Array Normalizer</string>
+    <string name="n">Enter size : </string>
+    <string name="num1">Enter the arr1 elements </string>
+    <string name="num2">Enter the arr2 elements </string>
+    <string name="a1">arr1 : </string>
+    <string name="a2">arr2 : </string>
+    <string name="normalized">Normalized arr with scaling factor :</string>
 </resources>
